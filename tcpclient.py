@@ -1,6 +1,6 @@
 import socket
 
-target_host = "www.test.com"
+target_host = "www.targethosthere.com"
 target_port = 8080
 
 # create a socket object AFINTET FOR IPV4, SOCK STREAM IS FOR TCP
